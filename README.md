@@ -1,4 +1,4 @@
-# MethSight - Satellite Methane Detection AI
+# MethSight - Satellite Methane Detection AI .
 
 A comprehensive satellite-based methane emission detection and attribution system combining AI inference, geographic visualization, and real-time alerting.
 
