@@ -1,0 +1,7 @@
+# Optional EMIT hyperspectral dependencies
+# Install only if you need /predict/live with prefer_emit=true or ENABLE_EMIT=1.
+# These may require Python 3.11/3.12 for best wheel availability.
+earthaccess>=0.9.0
+xarray>=2024.6.0
+h5netcdf>=1.3.0
+netCDF4>=1.7.0

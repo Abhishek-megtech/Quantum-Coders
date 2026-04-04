@@ -1,0 +1,112 @@
+{
+  "status": "success",
+  "image_path": "data/test_with_plumes.npy",
+  "image_shape": [
+    11,
+    512,
+    512
+  ],
+  "num_plumes": 7,
+  "cloud_coverage_percent": 99.9847412109375,
+  "plumes": [
+    {
+      "plume_id": 0,
+      "location": {
+        "y": 0.0,
+        "x": 0.0
+      },
+      "area_pixels": 0,
+      "intensity_mean": 1.5584397229651201,
+      "intensity_max": 1.5584397229651201,
+      "emission_kg_hr": 500.0,
+      "uncertainty_kg_hr": 75.0,
+      "confidence": 0.7015278820813383
+    },
+    {
+      "plume_id": 1,
+      "location": {
+        "y": 0.0,
+        "x": 0.0
+      },
+      "area_pixels": 0,
+      "intensity_mean": 1.4707546546273655,
+      "intensity_max": 1.4707546546273655,
+      "emission_kg_hr": 500.0,
+      "uncertainty_kg_hr": 75.0,
+      "confidence": 0.701441916328066
+    },
+    {
+      "plume_id": 2,
+      "location": {
+        "y": 0.0,
+        "x": 0.0
+      },
+      "area_pixels": 0,
+      "intensity_mean": 1.0816290759159701,
+      "intensity_max": 1.0816290759159701,
+      "emission_kg_hr": 500.0,
+      "uncertainty_kg_hr": 75.0,
+      "confidence": 0.7010604206626627
+    },
+    {
+      "plume_id": 3,
+      "location": {
+        "y": 0.0,
+        "x": 0.0
+      },
+      "area_pixels": 0,
+      "intensity_mean": 1.448455022884501,
+      "intensity_max": 1.448455022884501,
+      "emission_kg_hr": 500.0,
+      "uncertainty_kg_hr": 75.0,
+      "confidence": 0.7014200539440044
+    },
+    {
+      "plume_id": 4,
+      "location": {
+        "y": 0.0,
+        "x": 0.0
+      },
+      "area_pixels": 0,
+      "intensity_mean": 1.4655292131909734,
+      "intensity_max": 1.4655292131909734,
+      "emission_kg_hr": 500.0,
+      "uncertainty_kg_hr": 75.0,
+      "confidence": 0.7014367933462656
+    },
+    {
+      "plume_id": 5,
+      "location": {
+        "y": 0.0,
+        "x": 0.0
+      },
+      "area_pixels": 0,
+      "intensity_mean": 1.2130756579287338,
+      "intensity_max": 1.2130756579287338,
+      "emission_kg_hr": 500.0,
+      "uncertainty_kg_hr": 75.0,
+      "confidence": 0.7011892898607144
+    },
+    {
+      "plume_id": 6,
+      "location": {
+        "y": 0.0,
+        "x": 0.0
+      },
+      "area_pixels": 0,
+      "intensity_mean": 1.5760040133164246,
+      "intensity_max": 1.604919824799303,
+      "emission_kg_hr": 500.0,
+      "uncertainty_kg_hr": 75.0,
+      "confidence": 0.7015734508086268
+    }
+  ],
+  "total_emission_kg_hr": 3500.0,
+  "wind_data": {
+    "wind_speed": 7.5,
+    "wind_direction": 45.0,
+    "altitude": 100.0,
+    "latitude": 0.0,
+    "longitude": 0.0
+  }
+}

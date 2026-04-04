@@ -1,0 +1,58 @@
+
+================================================================================
+METHANE DETECTION & FINANCIAL IMPACT REPORT
+================================================================================
+
+DETECTION RESULTS
+--------------------------------------------------------------------------------
+Image File: data/test_with_plumes.npy
+Detection Timestamp: N/A
+Total Plumes Detected: 0
+Total Emission Rate: 1001.00 kg/hr
+Cloud Coverage: 99.9847412109375%
+
+EMISSION METRICS
+--------------------------------------------------------------------------------
+Hourly Emission: 1001.00 kg/hr
+Annual Emission: 8768.76 metric tons/year
+CO₂ Equivalent: 245525.28 metric tons CO₂e/year
+
+FINANCIAL IMPACT SUMMARY
+--------------------------------------------------------------------------------
+Annual Cost to Factory: $79,660,265.76
+Monthly Cost: $6,638,355.48
+Daily Cost: $218,247.30
+Hourly Cost: $9,093.64
+
+COST BREAKDOWN
+--------------------------------------------------------------------------------
+1. Carbon Credit Costs (EU ETS):
+   $22,588,325.76/year
+
+2. EPA Social Cost of Methane (Climate Damage):
+   $13,153,140.00/year
+
+3. Regulatory Fines & Penalties:
+   - EPA Penalty: $17,537,520.00/year
+   - State Penalty: $26,306,280.00/year
+
+4. Compliance & Operating Costs:
+   $75,000.00/year
+
+RISK ASSESSMENT
+--------------------------------------------------------------------------------
+Emission Severity: CRITICAL (> 1000 metric tons/year)
+Annual Regulatory Exposure: $43,843,800.00
+Daily Regulatory Exposure: $120,120.00
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+1. Implement immediate methane leak detection systems
+2. Schedule urgent facility inspection and repair
+3. Budget for regulatory compliance costs
+4. Consider carbon offset programs
+5. Engage with environmental compliance consultants
+6. Review insurance coverage for environmental liability
+
+Generated: 2026-04-04T03:53:58.366011
+================================================================================
